@@ -1,1 +1,2 @@
-# FinalReport-2
+To use this program you have to have a .CSV file, in the file there should be Incomes and Expenses in the A1 and B1 respectively or vice versa, and respectively A2-An and B2-Bn should be the values of the incomes and expenses. As example you can find an "Book2.CSV" file, you can use it. Then open the "finalProject.sln". When you run the program, in the home page there is "Upload Link" button, you click it and go to the Uploading page, where you there is button such as 
+"Choose file" or "Выберите файл", you have to click it, choose the .Csv file and click "Upload" button, after that you will see the result in a new page. 
